@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Landing Page (Home) -->
+  <url>
+    <loc>https://marinernesto51-coder.github.io/loteria-panama/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- NEXUS App (Railway) -->
+  <url>
+    <loc>https://loteria-panama-production.up.railway.app/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Lead Magnet 1: Frecuencia Real -->
+  <url>
+    <loc>https://marinernesto51-coder.github.io/loteria-panama/PDF_01_Frecuencia_Real.pdf</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Lead Magnet 2: Mapa de Calor -->
+  <url>
+    <loc>https://marinernesto51-coder.github.io/loteria-panama/PDF_02_Mapa_de_Calor.pdf</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Lead Magnet 3: Calientes y Frios -->
+  <url>
+    <loc>https://marinernesto51-coder.github.io/loteria-panama/PDF_03_Calientes_y_Frios.pdf</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

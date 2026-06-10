@@ -1,0 +1,27 @@
+{
+  "name": "Lotería Panamá - Análisis Probabilístico",
+  "short_name": "Lotería PA",
+  "description": "Análisis estadístico de la Lotería Nacional de Beneficencia de Panamá",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00FF88",
+  "lang": "es",
+  "categories": ["utilities", "finance"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

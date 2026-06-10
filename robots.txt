@@ -1,0 +1,9 @@
+# robots.txt - NEXUS Loteria Panama
+# Archivo de instrucciones para crawlers de motores de busqueda
+
+# Permitir a todos los bots rastrear todo el sitio
+User-agent: *
+Allow: /
+
+# Ubicacion del sitemap (importante para Google Search Console)
+Sitemap: https://marinernesto51-coder.github.io/loteria-panama/sitemap.xml
